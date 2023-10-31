@@ -4,7 +4,7 @@
 
 This project is a practical application of *React Fundamentals*, inspired by John Smilga's Udemy course. While the original project in the course began with *Create React App* (CRA), I chose to use *Vite* for building this page. [Click here](https://hevelyncosta.github.io/best-sellers-app/) to take a peek.
 
-#### What I've learned?
+#### What I've learned
 
 - Creating Components:
 
